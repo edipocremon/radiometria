@@ -1,13 +1,13 @@
 <p><b>Radiometria</b></p>
 <p><br></p>
 <p>Nesta página é disponibilizado os arquivos mensurados no experimento da radiometria da disciplina Sensoriamento Remoto-1 do Instituto Federal de Goiás (Campus Goiânia).</p>
-<p>
-    <p>Psara esse experimento foram coletados dados no nível de laboratório, com fonte de energia artificial.</p>
+<p></p>
+<p>Psara esse experimento foram coletados dados no nível de laboratório, com fonte de energia artificial.</p>
 
-    <p>Os equipamentos utilizados no procedimento de laboratório foram:
-    </p>
+<p>Os equipamentos utilizados no procedimento de laboratório foram:
+    <br><br></p>
 
-</p>
+<p></p>
 <ul>
     <li>
         <!--[if !supportLists]-->
